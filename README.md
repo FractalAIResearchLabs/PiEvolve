@@ -3,7 +3,7 @@
 <div align="center">
 
 
-📄 **[Tech Report](https://github.com/baidubce/FM-Agent/blob/main/docs/FMAgent_TechReport.pdf)** |
+📄 **[Tech Report]()** |
 📌  **[PiML (PiEvolve-Beta) at AutoML,25](https://openreview.net/pdf?id=Nw1qBpsjZz)**
 </div>
 
