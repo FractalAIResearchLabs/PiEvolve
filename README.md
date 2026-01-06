@@ -3,11 +3,18 @@
 <div align="center">
 
 
-📄 **[Tech Report]()** |
+📄 **[Tech Report(Coming Soon)]()** |
 📌  **[PiML (PiEvolve-Beta) at AutoML,25](https://openreview.net/pdf?id=Nw1qBpsjZz)**
 </div>
 
 ![Pi-Evolve Architecture](assets/pievolve_arch_v3_background.png)
+
+## Timeline
+
+- **[06 Jan 2025]** PiEvolve achieves SOTA performance on OpenAI MLE-Bench and is among top-3 even with 50% less compute time than official runtime of 24 hours.
+- **[Nov, 2025]** Re-invented PiML to develop **PiEvolve**, pushing the boundaries of autonomous scientific discovery via an evolutionary agentic framework.
+- **[03 Jun 2025]** Published ["PiML: Automated Machine Learning Workflow Optimization using LLM Agents"](https://openreview.net/pdf?id=Nw1qBpsjZz) at AutoML'25, New York, USA.
+- **[April, 2025]** Developed PiML - a framework for autonomous optimisation of machine learning workflows.
 
 
 ## Technical Details
@@ -49,10 +56,18 @@ If you use Pi-Evolve agent, cite us:
 ```bibtex
 @misc{PiEvolve,
       title={Pi-Evolve: Long-Horizon Evolutionary Optimization for Autonomous Scientific Discovery}, 
-      author={Sai Botla and Kirubanath Sankar and Abhishek Chopde},
+      author={Sai Kiran Botla and Kirubanath Sankar and Abhishek Chopde and Fardeen Pettiwala},
       year={2025}
 }
 ```
+
+## About Project Pioneer
+
+The Project Pioneer team at Fractal AI Research Lab investigates the next generation of autonomous intelligence by developing agentic systems capable of sustained reasoning, self-improvement, and evolutionary learning over complex machine learning tasks. 
+
+Our Published Work:
+
+* ["PiML: Automated Machine Learning Workflow Optimization using LLM Agents"](https://openreview.net/pdf?id=Nw1qBpsjZz) [AutoML'25, NY, USA]
 
 ## License
 
