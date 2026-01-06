@@ -1,4 +1,4 @@
-<h1 align="center">Pi-Evolve</h1>
+<h1 align="center">PiEvolve</h1>
 
 <div align="center">
 
