@@ -11,7 +11,7 @@
 
 ## Timeline
 - **[14 Jan 2026]** PiEvolve is officially Rank-1 on OpenAI's MLE-Bench benchmark. Check out: [openai/mle-bench](https://github.com/openai/mle-bench/blob/main/README.md)
-- **[06 Jan 2025]** PiEvolve achieves SOTA performance on OpenAI MLE-Bench and is among top-3 even with 50% less compute time than official runtime of 24 hours.
+- **[06 Jan 2026]** PiEvolve achieves SOTA performance on OpenAI MLE-Bench and is among top-3 even with 50% less compute time than official runtime of 24 hours.
 - **[Nov, 2025]** Re-invented PiML to develop **PiEvolve**, pushing the boundaries of autonomous scientific discovery via an evolutionary agentic framework.
 - **[03 Jun 2025]** Published ["PiML: Automated Machine Learning Workflow Optimization using LLM Agents"](https://openreview.net/pdf?id=Nw1qBpsjZz) at AutoML'25, New York, USA.
 - **[April, 2025]** Developed PiML - a framework for autonomous optimisation of machine learning workflows.
